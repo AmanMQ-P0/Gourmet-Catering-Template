@@ -5,7 +5,7 @@
 
 Website ini dibuat sebagai **latihan belajar front-end development**.
 
-Tampilan dan beberapa perilaku JavaScript **terinspirasi dari template W3Schools (W3.CSS)**.  
+Tampilan **terinspirasi dari template W3Schools (W3.CSS)**.  
 Namun, **project ini TIDAK menggunakan W3.CSS**.
 
 Seluruh struktur dan styling ditulis ulang dari awal menggunakan:
@@ -29,7 +29,7 @@ sangat saya hargai.
 
 This website is created as a **front-end learning project**.
 
-The layout and some JavaScript behaviors are **inspired by a W3Schools (W3.CSS) template**.  
+The layout are **inspired by a W3Schools (W3.CSS) template**.  
 However, **this project does NOT use W3.CSS**.
 
 The implementation is written from scratch using:
@@ -53,7 +53,6 @@ and improve the code are very welcome.
 - HTML
 - CSS
 - Bootstrap
-- JavaScript
 
 ---
 
