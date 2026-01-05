@@ -1,4 +1,4 @@
-# Band Template  
+# Gourmet Catering Template  
 *(Learning Project / Proyek Pembelajaran)*
 
 ## 🇮🇩 Deskripsi (Bahasa Indonesia)
